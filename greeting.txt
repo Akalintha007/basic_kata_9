@@ -1,1 +1,1 @@
-GREETING
+this is a mock
